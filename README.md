@@ -10,5 +10,5 @@
 - Next.js, TypeScript, Docker
 
 📫 Contact me:
-- Email: thanseyha@example.com
+- Email: thanseyha2002@gmail.com
 - Portfolio: [my portfolio](https://seyha29.github.io/my-portfolio)

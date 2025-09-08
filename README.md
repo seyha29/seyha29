@@ -3,7 +3,7 @@
 🎯 Full-stack Developer | React.js & Laravel
 
 💻 Skills:
-- React.js, Node.js, Laravel, MySQL
+- React.js,Next js, Node.js, Laravel, MySQL
 - HTML, CSS, JavaScript
 
 🌱 Currently learning:

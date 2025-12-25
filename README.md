@@ -11,4 +11,4 @@
 
 📫 Contact me:
 - Email: thanseyha2002@gmail.com
-- Portfolio: [my portfolio](https://seyha29.github.io/my-portfolio)
+- Portfolio: [my portfolio]([https://seyha29.github.io/my-portfolio](https://seyha29-my-portfolio.vercel.app/))

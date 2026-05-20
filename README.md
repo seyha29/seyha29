@@ -5,8 +5,10 @@
 
 <h3 align="center">Hi there, I'm Than Seyha 👋</h3>
 
-<p align="center">🌏 Cambodia &nbsp;·&nbsp; 💼 Full-Stack Developer &nbsp;·&nbsp; 🌐 <a href="https://ruengvip.com">ruengvip.com</a></p>
-
+<p align="center">🌏 Cambodia &nbsp;·&nbsp; 💼 Full-Stack Developer &nbsp;·&nbsp; 
+<p align="center">
+  🌐 <a href="https://ruengvip.com">ruengvip.com</a>
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Love+coding+%26+learning+new+tech;Building+cool+things+every+day;React.js+%7C+Laravel+%7C+Node.js" alt="Typing SVG"/>
@@ -74,7 +76,7 @@ const thanSeyha = {
 
 <p align="center">
   <span>📊 &nbsp;<b>GitHub Stats</b></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>🗣️ &nbsp;<b>Top Languages</b></span>
 </p>
 

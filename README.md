@@ -2,6 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Than%20Seyha&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React.js%20%26%20Laravel&descAlignY=55&descAlign=50" width="100%"/>
 
+<br/>
+
+<img src="https://github.com/seyha29.png" width="130" style="border-radius:50%; border: 4px solid #00D9FF;" alt="Than Seyha"/>
+
+<h2>Than Seyha 👋</h2>
+<p><i>@seyha29 · Cambodia 🌏</i></p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there!+I'm+Than+Seyha+%F0%9F%91%8B;Full-Stack+Developer+%7C+React.js+%26+Laravel;Love+coding+%26+learning+new+technology+%F0%9F%9A%80;Always+building+something+awesome+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
@@ -87,7 +94,9 @@ const thanSeyha = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanseyha2002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seyha29)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thanseyha11)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/than.seyha.030802)
+[![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ruengvip.com)
 
 </div>
 

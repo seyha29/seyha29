@@ -1,46 +1,48 @@
-<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Than%20Seyha&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20React.js%20%26%20Laravel&descSize=20&descAlignY=62&descAlign=50)
 
-![avatar](https://github.com/seyha29.png?size=130)
+<p align="center">
+  <img src="https://github.com/seyha29.png" width="130" style="border-radius:50%"/>
+</p>
 
-## Hi there, I'm Than Seyha 👋
+<h3 align="center">Hi there, I'm Than Seyha 👋</h3>
 
-🌏 Cambodia &nbsp;·&nbsp; 💼 Full-Stack Developer &nbsp;·&nbsp; 🌐 [ruengvip.com](https://ruengvip.com)
+<p align="center">🌏 Cambodia &nbsp;·&nbsp; 💼 Full-Stack Developer &nbsp;·&nbsp; 🌐 <a href="https://ruengvip.com">ruengvip.com</a></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Love+coding+%26+learning+new+tech+%F0%9F%9A%80;Building+cool+things+every+day+%E2%9C%A8;React.js+%7C+Laravel+%7C+Node.js+%F0%9F%94%A5)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Love+coding+%26+learning+new+tech;Building+cool+things+every+day;React.js+%7C+Laravel+%7C+Node.js" alt="Typing SVG"/>
+  </a>
+</p>
 
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanseyha2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seyha29)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thanseyha11)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/than.seyha.030802)
-[![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ruengvip.com)
-
-</div>
+<p align="center">
+  <a href="mailto:thanseyha2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/seyha29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://t.me/thanseyha11"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.facebook.com/than.seyha.030802"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://ruengvip.com"><img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+</p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋 About Me
 
 ```typescript
 const thanSeyha = {
   name:              "Than Seyha",
   username:          "seyha29",
-  location:          "🌏 Cambodia",
+  location:          "Cambodia",
   email:             "thanseyha2002@gmail.com",
   website:           "https://ruengvip.com",
   role:              "Full-Stack Developer",
   passion:           "Love coding and learning new technology",
   currentlyLearning: ["Next.js", "TypeScript", "Docker"],
-  funFact:           "I debug in production 😅 (just kidding)"
+  funFact:           "I debug in production (just kidding)"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -52,14 +54,14 @@ const thanSeyha = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Database**
+**Backend and Database**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & DevOps**
+**Tools and DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,30 +71,28 @@ const thanSeyha = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seyha29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyha29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seyha29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seyha29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seyha29&theme=tokyonight&hide_border=true&background=1a1b27)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=seyha29&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=6)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyha29&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="600"/>
+</p>
 
 ---
 
-## 🎯 Currently Learning
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seyha29&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+## Currently Learning
 
 | Technology | Progress |
 |:---:|:---|
@@ -102,16 +102,14 @@ const thanSeyha = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seyha29&bg_color=1a1b27&color=628fdb&line=6366f1&point=ffffff&area=true&hide_border=true&area_color=6366f1)
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=seyha29&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seyha29&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer)
-
-</div>

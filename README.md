@@ -119,4 +119,7 @@ const thanSeyha = {
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer)
 
-© Thanseyha. All rights reserved.
+
+<p align="center">
+  <sub>© Thanseyha. All rights reserved.</sub>
+</p>

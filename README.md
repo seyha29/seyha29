@@ -73,14 +73,20 @@ const thanSeyha = {
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seyha29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyha29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"/>
+  <span>📊 &nbsp;<b>GitHub Stats</b></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>🗣️ &nbsp;<b>Top Languages</b></span>
+</p>
+
+
+
+<p align="center">
+  <span>🔥 &nbsp;<b>GitHub Streak</b></span>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyha29&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="600"/>
 </p>
-
 ---
 
 ## GitHub Trophies
